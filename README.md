@@ -1,7 +1,7 @@
 # AwvsAutomate
 **AwvsAutomate** 是一个非官方的 Acunetix 命令行界面（CLI）工具，旨在简化大规模目标的自动化渗透测试和漏洞狩猎。在进行大型渗透测试时，它是一个宝贵的助手，能够轻松启动或停止多个 Acunetix 扫描。此外，其多功能性可以无缝集成到枚举包装器或单行命令中，通过其管道功能提供高效的控制。
 
-banner.png
+![banner.png](https://github.com/N1Ch01aS/AwvsAutomate/blob/main/banner.png)
 
 ## 安装
 ```bash
